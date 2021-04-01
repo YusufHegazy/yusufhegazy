@@ -9,7 +9,7 @@
 
 - 👯 Currently welcoming **collaborations**
 
-- 📝 I regularly write articles on [hegz.me](hegz.me)
+- 📝 I regularly write articles on [hegz.me](https://hegz.me)
 
 - 📫 How to reach me **me@hegz.me**
 
